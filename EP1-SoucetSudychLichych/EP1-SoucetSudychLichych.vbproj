@@ -6,4 +6,8 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="H:\Program algoritmizace.vb" Link="Program algoritmizace.vb" />
+  </ItemGroup>
+
 </Project>
